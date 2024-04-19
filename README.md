@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lucifer-1027
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...embedded systems
+- 🌱 I’m currently working on Android Application Development using Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...---sudhanshu.ranjan757@gmail.com
 
